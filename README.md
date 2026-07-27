@@ -12,10 +12,10 @@ Hi, I'm Jan Niklas 👋<br><br>Full-Stack Developer (C#/.NET, Angular, Node.js) 
 ![](https://streak-stats.demolab.com/?user=JaSc2912&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JaSc2912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=JaSc2912&icon=0&color=cyan)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=JaSc2912&icon=0&color=cyan)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
