@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Jan Niklas 👋<br><br>Full-Stack Developer (C#/.NET, Angular, Node.js) with a serious soft spot for agentic AI.<br><br>🔭 I'm currently working on my own agentic AI frameworks (OpenClaw, Hermes, Langchain/-graph) and self-hosted LLMs running as MCP servers.<br>👯 I'm looking to collaborate on open-source agent tooling, MCP integrations, and AI-powered automations.<br>🌱 I'm currently learning cloud & MLOps (Azure/AWS) and finishing up Google AI Essentials and the Claude Certified Architect track.<br>💬 Ask me about full-stack development, prompt & context engineering, and building AI agents that are actually reliable.<br>⚡ Fun fact: I run my own LLMs on local GPUs — my home lab basically has its own second brain. 🧠
+Hi, I'm Jan Niklas 👋<br><br>Full-Stack Developer (C#/.NET, Angular, Node.js) with a serious soft spot for agentic AI.
+<br><br>🔭 I'm currently working on my own agentic AI frameworks (OpenClaw, Hermes, Langchain/-graph) and self-hosted LLMs running as MCP servers.
+<br>👯 I'm looking to collaborate on open-source agent tooling, MCP integrations, and AI-powered automations.<br>🌱 I'm currently learning cloud & MLOps (Azure/AWS) and finishing up Google AI Essentials and the Claude Certified Architect track.
+<br>💬 Ask me about full-stack development, prompt & context engineering, and building AI agents that are actually reliable.
+<br>⚡ Fun fact: I run my own LLMs on local GPUs — my home lab basically has its own second brain. 🧠
 
 
 ## 🌐 Socials:
